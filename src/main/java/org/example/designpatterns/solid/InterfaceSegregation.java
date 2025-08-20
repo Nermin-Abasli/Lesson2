@@ -33,5 +33,5 @@ class SimplePrinter implements  Printer1{
 class FunctionalPrinter implements Scanner1,Printer1{
     @Override
     public void print1();
-    public void scan1(;)
+    public void scan1();
 }
